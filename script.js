@@ -61,4 +61,3 @@ const wizard = new tm.Wizard({
 document
   .querySelector("#train-model-button")
   .addEventListener("click", () => wizard.open());
-
